@@ -1,0 +1,6 @@
+*.bat
+/*.pak
+.idea/
+_python-scripts/
+data.git
+umodel/
